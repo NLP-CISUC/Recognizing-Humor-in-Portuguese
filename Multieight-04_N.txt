@@ -1,3 +1,6 @@
+#Sources:
+#http://clef-qa.fbk.eu/2005/multieight-readme.html
+
 Em que ano foi atribuído o prémio Nobel a Thomas Mann? 1929.
 Quem é o administrador-delegado da Fiat? Cesare Romiti.
 Em que cidade se encontra a prisão de San Vittore? Milão.
