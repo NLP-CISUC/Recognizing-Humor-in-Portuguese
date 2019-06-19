@@ -23,7 +23,7 @@ https://twitter.com/Publico
 
 These datasets were used in the development of computational models for recognizing humor written in Portuguese, as described in the following paper:
 
-André Clemêncio, Ana Alves & Hugo Gonçalo Oliveira. Recognizing Humor in Portuguese: First Steps. Proceedings of 19th EPIA Conference on Artificial Intelligence, Vila Real, Portugal. September, 2019. (in press)
+André Clemêncio, Ana Alves & Hugo Gonçalo Oliveira. Recognizing Humor in Portuguese: First Steps. Proceedings of 19th EPIA Conference on Artificial Intelligence, Vila Real, Portugal. Springer. September, 2019. (in press)
 
 This work was partially funded by the Portuguese Foundation for Science and Technology's (FCT) INCoDe 2030 initiative, in the scope of the demonstration project AIA, ``Apoio Inteligente a empreendedores (chatbots)'';
 and by the SOCIALITE Project (PTDC/EEISCR/2072/2014), co-financed by COMPETE 2020, Portugal 2020 -- Operational Program for Competitiveness and Internationalization (POCI), European Union’s ERDF (European Regional Development Fund), and FCT.
