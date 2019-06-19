@@ -15,3 +15,4 @@ https://twitter.com/inimigo
 ## TitulosPublico.txt
 
 https://www.publico.pt/
+https://twitter.com/Publico
