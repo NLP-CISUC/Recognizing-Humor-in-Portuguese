@@ -1,25 +1,25 @@
 # Dataset sources
 
-## One-liners.txt 
+## One-liners_H.txt 
 https://www.facebook.com/CadernoDasPiadas/ 
 https://ltpf.files.wordpress.com/2011/01/omaiscompleto-anedotc3a3c2a1ri.pdf
 
-## Multieight-04.txt
+## Multieight-04_N.txt
 
 http://clef-qa.fbk.eu/2005/multieight-readme.html
 
 Magnini, Bernardo & Giampiccolo, Danilo & Aunimo, Lili & Ayache, Christelle & Osenova, Petya & Peñas, Anselmo & de Rijke, Maarten & Sacaleanu, Bogdan & Santos, Diana & Sutcliffe, Richard. (2006). The Multilingual Question Answering Track at CLEF. 
 
-## inimigopublico.txt
+## inimigopublico_H.txt
 
 https://twitter.com/inimigo
 
-## TitulosPublico.txt
+## TitulosPublico_N.txt
 
 https://www.publico.pt/
 https://twitter.com/Publico
 
-
+##
 
 These datasets were used in the development of computational models for recognizing humor written in Portuguese, as described in the following paper:
 
